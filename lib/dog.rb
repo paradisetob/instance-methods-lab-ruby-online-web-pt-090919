@@ -11,3 +11,6 @@ end
 end
 fido=Dog.new
 fido.sitting
+  end
+   end
+  end
