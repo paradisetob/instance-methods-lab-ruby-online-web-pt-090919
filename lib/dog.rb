@@ -2,8 +2,11 @@ class Dog
   puts "woof!"
 end
   end
-  fido = dog.new
+  fido = Dog.new
   fido.bark
 
   class Dog
-    puts
+    puts "The Dog is sitting!"
+  end
+end
+fido=Dog.new
